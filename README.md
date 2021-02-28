@@ -7,6 +7,15 @@
 - slots are 6mm long
 - meant to work with V Slot wheels commonly found on 3D printers
 
+## Examples
+### CNC Router / Laser Engraver
+![outline](Images/CNCRouterOutlined.png)
+![shaded](Images/CNCRouterShaded.png)
+
+### 3D Printer
+![outline](Images/3DPrinterOutlined.png)
+![shaded](Images/3DPrinterShaded.png)
+
 # Parts
 ## 1U Plate
 - holes on corners and center point
@@ -25,12 +34,3 @@
 ## Offsets
 - Offsets are useful for separating plates in order to accommodate hardware heads such as socket head or button head bolts. 
 - They are also designed to create a linear rail system where the small end of the offset rides on the inner portion of a V Wheel bearing.
-
-## Examples
-### CNC Router / Laser Engraver
-![outline](Images/CNCRouterOutlined.png)
-![shaded](Images/CNCRouterShaded.png)
-
-### 3D Printer
-![outline](Images/3DPrinterOutlined.png)
-![shaded](Images/3DPrinterShaded.png)
