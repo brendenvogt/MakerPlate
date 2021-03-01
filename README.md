@@ -4,8 +4,7 @@
 - Hole spacing 20mm between centers
 - Accepts 5mm bolt holes (actual size is 5.6mm. 0.6mm for tolerance)
 - 4mm thickness baseplate
-- slots are 6mm long
-- meant to work with V Slot wheels commonly found on 3D printers
+- Meant to work with V Slot Bearings commonly found on 3D printers 
 
 ## Examples
 ### CNC Router / Laser Engraver
@@ -28,9 +27,13 @@
 - a 1U plate with a mount for 2020 extrusion jutting out normal to the face of the 1U plate.
 - Useful for mounting 2020 Extrusion perpendicular to a desk, mounting 2020 extrusion for a gantry.
 
+## 1U for NEMA 17 Stepper Motor
+- a 1U plate with holes for a NEMA 17 motor.
+
 ## 2U for NEMA 17 Stepper Motor
 - basically a 2U Plate but with a NEMA 17 motor mount on one end.
 
 ## Offsets
+- 5mm 6mm and 7mm variants. (6mm and 7mm work well for a V Wheel slider)
 - Offsets are useful for separating plates in order to accommodate hardware heads such as socket head or button head bolts. 
 - They are also designed to create a linear rail system where the small end of the offset rides on the inner portion of a V Wheel bearing.
