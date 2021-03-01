@@ -1,4 +1,4 @@
-# Maker Plate by Brenden Vogt
+# MakerPlate by Brenden Vogt
 ![image](Images/Title.png)
 ## System Overview
 - Hole spacing 20mm between centers
